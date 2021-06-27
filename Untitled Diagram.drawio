@@ -1,1 +1,31 @@
-<mxfile host="app.diagrams.net" modified="2021-06-27T10:33:24.882Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" version="14.7.3" etag="d2yq6iQomntRXcmOcS59" type="github"><diagram id="tnaX2jn5dPKS3Z-IKUlJ">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-06-27T10:36:54.387Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.114 Safari/537.36" etag="KkLPSm_6QD1oqjWarMfC" version="14.7.3" type="github">
+  <diagram id="tnaX2jn5dPKS3Z-IKUlJ" name="Page-1">
+    <mxGraphModel dx="782" dy="744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="xuYcymb9piaRR42ISMj5-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xuYcymb9piaRR42ISMj5-2" target="xuYcymb9piaRR42ISMj5-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xuYcymb9piaRR42ISMj5-2" value="Import data from csv file" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="70" y="40" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="xuYcymb9piaRR42ISMj5-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="xuYcymb9piaRR42ISMj5-3" target="xuYcymb9piaRR42ISMj5-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xuYcymb9piaRR42ISMj5-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.44;entryY=-0.015;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="xuYcymb9piaRR42ISMj5-3" target="xuYcymb9piaRR42ISMj5-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="xuYcymb9piaRR42ISMj5-3" value="for each member of the class" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="414" y="40" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="xuYcymb9piaRR42ISMj5-4" value="set gender" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="280" y="280" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="xuYcymb9piaRR42ISMj5-7" value="extract grades info" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="500" y="280" width="200" height="200" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
